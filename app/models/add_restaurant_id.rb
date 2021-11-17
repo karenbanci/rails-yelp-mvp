@@ -1,0 +1,2 @@
+class AddRestaurantId < ApplicationRecord
+end
